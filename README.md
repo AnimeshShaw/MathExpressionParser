@@ -1,13 +1,3 @@
-             __   _                
-|V| __|_|_  |_   |_)___  _ _o _ __ 
-| |(_||_| | |__><|  |(/__>_>|(_)| |
-
-
-|_)_ ___ _ __                      
-| (_||_>(/_|                       
-
-                    By Psycho_Coder
-
 Description :
 --------------------
 
@@ -37,5 +27,5 @@ Please Note :
 
 Type help, description, usage for assistence and exit to leave.
 
-Usage :Type any mathematical expression with the functionsstated above in the description
+Usage :Type any mathematical expression with the functions stated above in the description
 example : sin(2*x)*cos(x)
